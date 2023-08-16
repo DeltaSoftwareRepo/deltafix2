@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="241.242" height="151.247" viewBox="0 0 241.242 151.247">
+  <g id="Group_290" data-name="Group 290" transform="translate(-839.379 -3056.753)">
+    <g id="delta_fix_yatay_logo" transform="translate(839.379 3056.753)">
+      <path id="Path_14" data-name="Path 14" d="M455.4,335.917h-7.44V283.31H426.5v-6.65h50.368v6.65H455.4Z" transform="translate(-299.163 -276.66)" fill="#f1f1f2"/>
+      <path id="Path_15" data-name="Path 15" d="M458.9,329.267v6.65H422.89V276.66h7.374v52.607Z" transform="translate(-319.322 -276.66)" fill="#f1f1f2"/>
+      <path id="Path_16" data-name="Path 16" d="M452.639,329.267v6.65H415.9V276.66h36.739v6.65H423.274v19.028H447.9v6.584H423.274v20.345Z" transform="translate(-358.355 -276.66)" fill="#f1f1f2"/>
+      <path id="Path_17" data-name="Path 17" d="M414.6,283.31v45.957h12.444c6.584,0,11.72-1.975,15.407-6.057,3.687-4.016,5.465-9.679,5.465-16.855q0-10.864-5.531-16.987c-3.687-4.082-8.823-6.057-15.407-6.057Zm-7.44-6.65H427.5c8.823,0,15.67,2.634,20.608,7.835s7.374,12.51,7.374,21.793c0,9.35-2.436,16.592-7.374,21.859-4.938,5.2-11.786,7.835-20.608,7.835H407.16Z" transform="translate(-407.16 -276.66)" fill="#f1f1f2"/>
+      <path id="Path_18" data-name="Path 18" d="M467.788,276.66l-24.625,59.257H432.3l25.612-59.257Z" transform="translate(-266.775 -276.66)" fill="#f1f1f2"/>
+      <path id="Path_19" data-name="Path 19" d="M463.034,335.917,438.41,276.66h10.139L473.9,335.917Z" transform="translate(-232.656 -276.66)" fill="#f1f1f2"/>
+      <rect id="Rectangle_113" data-name="Rectangle 113" width="87.371" height="1.383" transform="translate(0 81.577)" fill="#fff"/>
+      <path id="Path_20" data-name="Path 20" d="M424.679,307.452H422.77V287.7h11.72v1.712h-9.81v7.374h9.02V298.5h-9.02Z" transform="translate(-319.992 -215.011)" fill="#fff"/>
+      <rect id="Rectangle_114" data-name="Rectangle 114" width="1.844" height="19.752" transform="translate(118.58 72.689)" fill="#fff"/>
+      <path id="Path_21" data-name="Path 21" d="M426.03,307.452l6.913-9.942L426.1,287.7h2.239l5.728,8.362h.132l5.794-8.362h2.173l-6.979,9.876,6.847,9.876h-2.239l-5.728-8.3h-.132l-5.728,8.3Z" transform="translate(-301.788 -215.011)" fill="#fff"/>
+      <rect id="Rectangle_115" data-name="Rectangle 115" width="87.371" height="1.383" transform="translate(153.871 81.577)" fill="#fff"/>
+      <path id="Path_22" data-name="Path 22" d="M459.709,290.38a11.576,11.576,0,0,0-5.926-10.14v9.415l-5.794,3.358-5.86-3.358v-9.35a11.711,11.711,0,0,0,.592,20.608v15.144h11.061V300.651a12.093,12.093,0,0,0,5.926-10.271" transform="translate(-244.607 -256.669)" fill="#ed1651" fill-rule="evenodd"/>
+    </g>
+    <text id="Ekosistemi" transform="translate(960 3198)" fill="#ed1651" font-size="40" font-family="Montserrat-Light, Montserrat" font-weight="300" letter-spacing="-0.04em"><tspan x="-100.28" y="0">Ekosistemi</tspan></text>
+  </g>
+</svg>
