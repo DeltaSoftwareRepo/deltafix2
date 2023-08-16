@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<svg width="566.356" height="474.77" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <symbol height="474.77" id="svg_43" viewBox="0 0 566.356 474.77" width="566.36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <defs>
+    <linearGradient gradientUnits="objectBoundingBox" id="svg_35" x1="0.33" x2="0.74" y2="0.97">
+     <stop offset="0" stop-color="#20d9ff"/>
+     <stop offset="1" stop-color="#003161"/>
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="svg_32" x1="0.5" x2="0.5" y2="1">
+     <stop offset="0" stop-color="#96378a"/>
+     <stop offset="1" stop-color="#4b1b45"/>
+    </linearGradient>
+   </defs>
+   <circle cx="11.03" cy="11.03" data-name="Ellipse 59" fill="#0b6a97" id="svg_42" r="11.03" transform="translate(205.736 265.632)"/>
+   <circle cx="11.03" cy="11.03" data-name="Ellipse 60" fill="#0b6a97" id="svg_41" r="11.03" transform="translate(247.797 268.429) rotate(-13.286)"/>
+   <circle cx="11.03" cy="11.03" data-name="Ellipse 61" fill="#0b6a97" id="svg_40" r="11.03" transform="translate(289.676 276.666) rotate(-45)"/>
+   <circle cx="11.03" cy="11.03" data-name="Ellipse 62" fill="#0b6a97" id="svg_39" r="11.03" transform="translate(338.469 265.632)"/>
+   <circle cx="11.03" cy="11.03" data-name="Ellipse 63" fill="#0b6a97" id="svg_38" r="11.03" transform="translate(223.289 320.891) rotate(-45)"/>
+   <circle cx="11.03" cy="11.03" data-name="Ellipse 64" fill="#0b6a97" id="svg_37" r="11.03" transform="translate(272.103 309.849)"/>
+   <circle cx="11.03" cy="11.03" data-name="Ellipse 65" fill="#0b6a97" id="svg_36" r="11.03" transform="translate(314.156 312.641) rotate(-13.286)"/>
+   <path d="m477.2,256.54c0,-0.16 -0.08,-0.25 -0.17,-0.41c-23.4,-73.25 -92.08,-126.43 -173.05,-126.43c-80.89,0 -149.58,53.18 -173.05,126.43c-0.09,0.16 -0.09,0.25 -0.17,0.41a180.86,180.86 0 0 0 -8.46,54.76c0,100.13 81.46,181.6 181.6,181.6s181.6,-81.47 181.6,-181.6a178.25,178.25 0 0 0 -8.3,-54.76zm-173.22,-104.69c65.7,0 122.2,39.9 146.67,96.81l-67.78,0a33.25,33.25 0 0 0 -32.35,-25.96l-93,0a33.18,33.18 0 0 0 -32.36,25.97l-67.77,0a159.57,159.57 0 0 1 146.59,-96.82zm57.57,104.03l0,7.63a11.03,11.03 0 0 1 -11.03,11.04l-35.42,0l0,-29.79l35.42,0a11.15,11.15 0 0 1 11.03,11.12zm-68.61,-11.03l0,29.78l-35.42,0a11.03,11.03 0 0 1 -11.03,-11.03l0,-7.64a11.03,11.03 0 0 1 11.03,-11.03l35.42,0l0,-0.08zm11.04,225.9c-87.94,0 -159.45,-71.51 -159.45,-159.45a159.46,159.46 0 0 1 5.23,-40.57l75.32,0a33.25,33.25 0 0 0 32.36,25.97l93,0a33.18,33.18 0 0 0 32.35,-25.97l75.33,0a159.46,159.46 0 0 1 5.22,40.57c0.17,87.93 -71.43,159.44 -159.36,159.44l0,0.01z" data-name="Path 4010" fill="url(#svg_35)" id="svg_34" transform="translate(-20.842 -67.896)"/>
+   <g data-name="Group 289" id="svg_30">
+    <path d="m555.24,197.72l-63.8,0a228.53,228.53 0 0 0 -19.32,-32.68l49.19,-49.2a11.09,11.09 0 1 0 -15.68,-15.68l-47.29,47.29c-3.73,-4.31 -7.54,-8.46 -11.61,-12.53a237.44,237.44 0 0 0 -22.9,-20.07l0,-48.62a11.03,11.03 0 1 0 -22.07,0l0,33.6a231.83,231.83 0 0 0 -237.09,0l0,-33.6a11.03,11.03 0 0 0 -22.07,0l0,48.62a237.44,237.44 0 0 0 -22.9,20.07c-4.06,4.07 -7.96,8.22 -11.61,12.53l-47.28,-47.29a11.09,11.09 0 0 0 -15.68,15.68l49.19,49.2a224.06,224.06 0 0 0 -19.33,32.68l-63.96,0a11.03,11.03 0 1 0 0,22.07l54.5,0a231.44,231.44 0 0 0 388.42,235.02a11.04,11.04 0 1 0 -16.26,-14.93a209.81,209.81 0 0 1 -154.39,68.02c-115.39,0 -209.22,-93.83 -209.22,-209.22s93.83,-209.22 209.22,-209.22s209.22,93.83 209.22,209.22a207.07,207.07 0 0 1 -11.45,68.36a11.07,11.07 0 1 0 20.91,7.3a233.5,233.5 0 0 0 -1.08,-154.47l54.42,0a11.03,11.03 0 0 0 11.03,-11.03a11.17,11.17 0 0 0 -11.11,-11.12z" data-name="Path 3814" fill="url(#svg_32)" id="svg_33" transform="translate(0 -55.2)"/>
+    <circle cx="11.03" cy="11.03" data-name="Ellipse 41" fill="url(#svg_32)" id="svg_31" r="11.03" transform="translate(459.217 347.93) rotate(-9.218)"/>
+   </g>
+  </symbol>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <use id="svg_44" transform="matrix(0.994323 0 0 0.994323 2.56197 2.56197)" x="0" xlink:href="#svg_43" y="0"/>
+ </g>
+</svg>
