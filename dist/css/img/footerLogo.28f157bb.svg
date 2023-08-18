@@ -1,0 +1,13 @@
+<svg id="Layer_x0020_1" xmlns="http://www.w3.org/2000/svg" width="267" height="52.041" viewBox="0 0 267 52.041">
+  <path id="Path_1" data-name="Path 1" d="M164.182,50.3h-5.753V9.457H141.68V4.29h39.244V9.457H164.182Z" transform="translate(-42.9 -1.287)" fill="#fefefe"/>
+  <path id="Path_2" data-name="Path 2" d="M143.272,45.131V50.3H115.24V4.29h5.753V45.131Z" transform="translate(-34.88 -1.287)" fill="#fefefe"/>
+  <path id="Path_3" data-name="Path 3" d="M92.6,45.131V50.3H63.99V4.29H92.6V9.457H69.743V24.212h19.2v5.1h-19.2V45.131Z" transform="translate(-19.368 -1.287)" fill="#fefefe"/>
+  <path id="Path_4" data-name="Path 4" d="M0,4.29H15.839c6.852,0,12.185,2.022,16.042,6.08s5.753,9.686,5.753,16.917q0,10.878-5.746,16.944t-16.049,6.08H0V4.3ZM5.753,9.457V45.131h9.694q7.727,0,12-4.686t4.283-13.1c0-5.641-1.435-10.02-4.3-13.172S20.57,9.457,15.447,9.457H5.753Z" transform="translate(0 -1.287)" fill="#fefefe"/>
+  <g id="_1753254073552" transform="translate(128.35 3.024)">
+    <path id="Path_5" data-name="Path 5" d="M211.807,4.32,192.629,50.307H184.16L204.108,4.32Z" transform="translate(-184.16 -4.32)" fill="#fefefe"/>
+    <path id="Path_6" data-name="Path 6" d="M248.165,50.307,228.98,4.32h7.874l19.773,45.987Z" transform="translate(-197.61 -4.32)" fill="#fefefe"/>
+  </g>
+  <path id="Path_7" data-name="Path 7" d="M293.24,52.041V0h2.191V52.041Z" transform="translate(-88.681)" fill="#fefefe"/>
+  <path id="Path_8" data-name="Path 8" d="M325.016,43.577H322.93V21.6h13.039v1.89H325.016v8.259h10.065V33.6H325.016Zm17.6,0h-2.086V21.6h2.086Zm4.262,0,7.678-11.024L346.937,21.6h2.513l6.362,9.274h.168l6.432-9.274h2.38l-7.741,11.024,7.615,10.954h-2.492l-6.334-9.232h-.168l-6.411,9.232h-2.38Z" transform="translate(-97.792 -6.568)" fill="#fefefe"/>
+  <path id="Path_9" data-name="Path 9" d="M231.226,40.287A8.591,8.591,0,0,0,226.9,32.84v6.88l-4.27,2.464-4.269-2.471V32.84a8.592,8.592,0,0,0,.392,15.111V59.045h8.091l-.007-11.276a8.569,8.569,0,0,0,4.381-7.482Z" transform="translate(-64.762 -10.027)" fill="#e51a4b" fill-rule="evenodd"/>
+</svg>
